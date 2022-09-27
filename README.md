@@ -14,8 +14,8 @@ Python is a general-purpose interpreted, interactive, object-oriented, and high-
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-{% content-ref url="quick-start/" %}
-[quick-start](quick-start/)
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
 {% endcontent-ref %}
 
 ## Want to deep dive?
