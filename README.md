@@ -2,9 +2,12 @@
 description: >-
   Python 3 is a newer version of the Python programming language since it was
   released in December 2008.
+cover: >-
+  https://images.unsplash.com/photo-1538439907460-1596cafd4eff?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw0fHxweXRob258ZW58MHx8fHwxNjY0MjkzMTg1&ixlib=rb-1.2.1&q=80
+coverY: 0
 ---
 
-# PYTHON 3
+# Python3
 
 ## Introduction to Python
 

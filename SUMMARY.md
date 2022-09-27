@@ -1,7 +1,7 @@
 # Table of contents
 
-* [PYTHON 3](README.md)
-  * [Python Installation](python-3/python-installation.md)
+* [Python3](README.md)
+  * [Python Installation](python3/python-installation.md)
 * [Variable Types](quick-start.md)
   * [Variable - Number](variable-types/variable-number.md)
   * [Variable - String](variable-types/variable-string.md)
