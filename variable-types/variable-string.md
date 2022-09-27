@@ -12,12 +12,16 @@ Error if open with single quote and end with double quotes or vice versa. Exampl
 
 You can display a string literal with the `print()` function:
 
-<pre class="language-python" data-overflow="wrap" data-line-numbers><code class="lang-python"><strong>#Example 1
-</strong><strong>
-</strong><strong>a = 'Alia'
-</strong>print (a)
+{% code overflow="wrap" lineNumbers="true" %}
+```python
+#Example 1
 
-#Output should get Alia</code></pre>
+a = 'Alia'
+print (a)
+
+#Output should get Alia
+```
+{% endcode %}
 
 {% code overflow="wrap" lineNumbers="true" %}
 ```python

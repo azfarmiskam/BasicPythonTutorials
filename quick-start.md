@@ -29,7 +29,7 @@ Types of data that Python able to store:
 3. List - [variable-list.md](variable-types/variable-list.md "mention")
 4. Tuple - [variable-tuple.md](variable-types/variable-tuple.md "mention")
 5. Dictionary - [variable-dictionary.md](variable-types/variable-dictionary.md "mention")
-6. Set - [variable-set.md](variable-types/variable-set.md "mention")
+6. Set - [page-1.md](quick-start/page-1.md "mention")
 
 {% hint style="warning" %}
 Variable names are case-sensitive.

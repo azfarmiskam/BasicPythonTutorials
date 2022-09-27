@@ -8,7 +8,7 @@
   * [Variable - List](variable-types/variable-list.md)
   * [Variable - Tuple](variable-types/variable-tuple.md)
   * [Variable - Dictionary](variable-types/variable-dictionary.md)
-  * [Variable - Set](variable-types/variable-set.md)
+  * [Variable - Set](quick-start/page-1.md)
 
 ## Reference
 
