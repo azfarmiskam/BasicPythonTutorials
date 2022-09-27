@@ -1,7 +1,8 @@
 # Table of contents
 
 * [PYTHON 3](README.md)
-* [Quick Start](quick-start.md)
+* [Quick Start](quick-start/README.md)
+  * [Page 1](quick-start/page-1.md)
 
 ## Reference
 
