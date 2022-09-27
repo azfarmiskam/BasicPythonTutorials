@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [PYTHON 3](README.md)
 * [Quick Start](quick-start.md)
 
 ## Reference

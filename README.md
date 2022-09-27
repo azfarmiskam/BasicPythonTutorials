@@ -1,8 +1,14 @@
-# Welcome!
+---
+description: >-
+  Python 3 is a newer version of the Python programming language since it was
+  released in December 2008.
+---
 
-## Welcome to MyAPI
+# PYTHON 3
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+## Introduction to Python
+
+Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python is named after a TV Show called ëMonty Pythonís Flying Circusí and not after Python-the snake.
 
 ## Want to jump right in?
 
