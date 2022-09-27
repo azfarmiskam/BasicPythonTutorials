@@ -10,7 +10,7 @@ description: >-
 
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). Python is named after a TV Show called ëMonty Pythonís Flying Circusí and not after Python-the snake.
 
-## Want to jump right in?
+## Why Python?
 
 Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
