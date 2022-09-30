@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python3
 
 import random
 import os
@@ -23,9 +23,9 @@ while True:
             print("\n----------")
         else:
             time.sleep(0.6)
-            print("----------\n")
+            print("**********\n")
             print("You WIN!")
-            print("\n----------")
+            print("\n**********")
         time.sleep(2)
         break
 

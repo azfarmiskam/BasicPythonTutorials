@@ -17,7 +17,7 @@ def show_score():
 def start_game():
     random_number = int(random.randint(1, 10))
     print(' ')
-    print('####### WELCOME #######')
+    print('******* WELCOME *******')
     print(' ')
     print("Hello traveler! Welcome to the game of guesses!")
     print(' ')
