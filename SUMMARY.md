@@ -27,6 +27,14 @@
     * [for loop](control-structure/\_\_\_\_-loop/for-loop.md)
     * [Nested loop](control-structure/\_\_\_\_-loop/nested-loop.md)
 * [Function](function.md)
+* [Python Projects](python-projects/README.md)
+  * [Simple Calculator](python-projects/simple-calculator.md)
+  * [Binary Search Algorithm](python-projects/binary-search-algorithm.md)
+  * [Dice Roll](python-projects/dice-roll.md)
+  * [Rock Paper Scissor](python-projects/rock-paper-scissor.md)
+  * [Guessing Number](python-projects/guessing-number.md)
+  * [Tic Tac Toe (Player vs Player)](python-projects/tic-tac-toe-player-vs-player.md)
+  * [Tic Tac Toe (Player vs AI)](python-projects/tic-tac-toe-player-vs-ai.md)
 
 ## Reference
 
