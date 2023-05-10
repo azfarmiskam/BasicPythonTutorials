@@ -8,7 +8,7 @@
 <figure><img src="../.gitbook/assets/image_2022-09-27_162957856.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="MacOS" %}
 1. download Python from [https://www.python.org/downloads/](https://www.python.org/downloads/) and now install from the setup&#x20;
 2. Open Terminal and type `python3` and press enter
 {% endtab %}
